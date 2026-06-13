@@ -8,10 +8,10 @@ A sequence-to-sequence neural machine translation model with **Luong Attention**
 
 | Metric | Score |
 |--------|-------|
-| BLEU-1 | 0.6470 |
-| BLEU-2 | 0.5253 |
-| BLEU-3 | 0.4412 |
-| BLEU-4 | 0.3678 |
+| BLEU-1 | 64.70 |
+| BLEU-2 | 52.53 |
+| BLEU-3 | 44.12 |
+| BLEU-4 | 36.78 |
 | Val Accuracy | ~90.5% |
 
 ---

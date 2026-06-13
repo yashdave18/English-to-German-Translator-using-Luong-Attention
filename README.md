@@ -1,4 +1,4 @@
-# 🇩🇪 English to German Neural Machine Translator
+# English to German Machine Translator using Luong Attention
 
 A sequence-to-sequence neural machine translation model with **Luong Attention** built using TensorFlow/Keras, trained on 220k+ English-German sentence pairs.
 

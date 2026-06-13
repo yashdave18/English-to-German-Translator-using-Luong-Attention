@@ -44,15 +44,6 @@ German Sentence
 
 ---
 
-## 📁 Dataset
-
-[Tatoeba English-German dataset](http://www.manythings.org/anki/) — 221k sentence pairs
-- Filtered to max sequence length of 20 tokens
-- Final pairs after filtering: 220,353
-- Train/Val split: 90/10
-
----
-
 ## 🚀 Usage
 
 ### Clone the repository
